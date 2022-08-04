@@ -25,7 +25,7 @@
 <h1>Home Page</h1>
 ![homepage](screenshots%20of%20project/home%20page.png)
 <h1>Particular user posts</h1>
-![Particularuserposts](screenshots%20of%20project/all%20posts%20by%20particular%20user.png)
+![Particularuserposts](screenshots of project/all posts by particular user.png)
 <h1>Particular another user posts</h1>
 ![Particularanotheruserposts](screenshots%20of%20project/all%20posts%20by%20particular%20user03.png)
 <h1>New Post</h1>
