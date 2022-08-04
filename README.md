@@ -27,17 +27,17 @@
 <h1>Home Page After Login</h1>
 <img src="screenshots/homepage%20after%20user%20login.png" width="1000">
 <h1>Profile Page</h1>
-<p>This is the Profile page can be viewed by respective login user only</p>
+<p>This is the Profile page can be viewed by respective logged-in user only</p>
 <img src="screenshots/profilepage.png" width="1000">
 <h1>Particular user posts</h1>
 <img src="screenshots/allposts%20by%20particular%20user.png" width="1000">
 <h1>Particular another user posts</h1>
 <img src="screenshots/allposts%20by%20particular%20user03.png" width="1000">
 <h1>New Post</h1>
-<p>Once user had login he can create new post</p>
+<p>User can create new post after logged-in</p>
 <img src="screenshots/new%20post.png" width="1000">
 <h1>Post Update and Delete Post</h1>
-<p>Respective user can update or delete there post</p>
+<p>Respective user can update or delete there posts</p>
 <img src="screenshots/post%20update%20and%20delete.png" width="1000">
 <h1>Pagination</h1>
 <img src="screenshots/pagination.png" width="1000">
