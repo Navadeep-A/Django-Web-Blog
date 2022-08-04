@@ -16,7 +16,7 @@
 <img src="screenshots/emailsent.png" width="1000">
 <h1>Reset Mail </h1>
 <img src="screenshots/resetmail.png" width="1000">
-<p>By clicking the link obtained in our E-mail leads to the below page</p>
+<p>By clicking the link obtained in your E-mail leads to the below page</p>
 <h1>Password Reset Page</h1>
 <img src="screenshots/newpassword.png" width="1000">
 <h1>Password Reset Success Page</h1>
