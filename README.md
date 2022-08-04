@@ -9,23 +9,16 @@
 <img src="screenshots/registerpage.png" width="1000">
 <h1>Login Page</h1> 
 <img src="screenshots/loginpage.png" width="1000">
-
-
+<h1>Reset password Page</h1>
+<img src="screenshots/resetpassword.png" width="1000">
 <h1>Reset Mail Success</h1>
 <img src="screenshots/emailsent.png" width="1000">
 <h1>Reset Mail </h1>
 <img src="screenshots/resetmail.png" width="1000">
-<h1>Newpassword Page</h1>
-<img src="screenshots/newpassword.png" width="1000">
 <h1>password Reset Page</h1>
-<img src="screenshots/passwordreset.png" width="1000">
+<img src="screenshots/newpassword.png" width="1000">
 <h1>Password Reset Success Page</h1>
 <img src="screenshots/resetsuccess.png" width="1000">
-
-
-
-
-
 <h1>Home Page After Login</h1>
 <img src="screenshots/homepage%20after%20user%20login.png" width="1000">
 <h1>Profile Page</h1>
