@@ -9,13 +9,13 @@
 <img src="screenshots/registerpage.png" width="1000">
 <h1>Login Page</h1> 
 <img src="screenshots/loginpage.png" width="1000">
-<h1>Reset password Page</h1>
+<h1>Reset Password Page</h1>
 <img src="screenshots/resetpassword.png" width="1000">
 <h1>Reset Mail Success</h1>
 <img src="screenshots/emailsent.png" width="1000">
 <h1>Reset Mail </h1>
 <img src="screenshots/resetmail.png" width="1000">
-<h1>password Reset Page</h1>
+<h1>Password Reset Page</h1>
 <img src="screenshots/newpassword.png" width="1000">
 <h1>Password Reset Success Page</h1>
 <img src="screenshots/resetsuccess.png" width="1000">
@@ -29,7 +29,8 @@
 <img src="screenshots/allposts%20by%20particular%20user03.png" width="1000">
 <h1>New Post</h1>
 <img src="screenshots/new%20post.png" width="1000">
-<h1>Post Update and Delete</h1>
+<h1>Post Update and Delete Post</h1>
+<p>Only login user can do this</p>
 <img src="screenshots/post%20update%20and%20delete.png" width="1000">
 <h1>Pagination</h1>
 <img src="screenshots/pagination.png" width="1000">
