@@ -1,5 +1,5 @@
 <h1>DJANGO-WEB BLOG</h1>
-<p>Django Web Blog is the user friendly blogpost application which has complete user authentication system where it gives the users to register themselves and login through there registered credentials, later they even update there profile by changing there profile image, Email, & username. It also gives the users to reset there password by through Email.</p>
+<p>Django Web Blog is the user friendly blogpost application which has complete user authentication system where it gives the users to register themselves and login through there registered credentials, later they even update there profile by changing there profile image, E-mail, & username. It also gives the users to reset there password by through Email.</p>
 <p>Users can share there Thoughts, Knowledges and Ideologies through posts and can later update them with latest info, delete the post if the want to do. This was done by class based views and by the creation of models </p>
 <p>Here are some screenshots of the project</p>
 <h1>Home Page</h1>
@@ -12,10 +12,11 @@
 <h1>Reset Password Page</h1>
 <img src="screenshots/resetpassword.png" width="1000">
 <h1>Reset Mail Success</h1>
-<p>After user enter the valid Email this page will appear </p>
+<p>After user enter the valid E-mail this page will appear </p>
 <img src="screenshots/emailsent.png" width="1000">
 <h1>Reset Mail </h1>
 <img src="screenshots/resetmail.png" width="1000">
+<p>By clicking the link obtained in our E-mail leads to the below page</p>
 <h1>Password Reset Page</h1>
 <img src="screenshots/newpassword.png" width="1000">
 <h1>Password Reset Success Page</h1>
