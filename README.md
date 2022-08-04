@@ -28,9 +28,9 @@
 <h1>Particular another user posts</h1>
 <img src="screenshots/allposts%20by%20particular%20user03.png" width="1000">
 <h1>New Post</h1>
-<img src="screenshots/newpost.png" width="1000">
+<img src="screenshots/new%20post.png" width="1000">
 <h1>Post Update and Delete</h1>
-<img src="screenshots/postupdate%20and%20delete.png" width="1000">
+<img src="screenshots/post%20update%20and%20delete.png" width="1000">
 <h1>Pagination</h1>
 <img src="screenshots/pagination.png" width="1000">
 <h1>Logout page</h1>
