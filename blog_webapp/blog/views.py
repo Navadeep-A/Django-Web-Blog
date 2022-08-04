@@ -5,14 +5,6 @@ from django.views.generic import  ListView, DetailView, CreateView ,UpdateView,D
 from .models import Post
                                  
                                    
-# def home(request):
-#                 #    dictionary
-#     context={                  
-#            'post':Post.objects.all()
-#      }
-#     return render(request,'blog/home.html',context)
-
-# class based views
 class PostListView(ListView):
     model = Post
     template_name= 'blog/home.html'
