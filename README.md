@@ -39,6 +39,8 @@
 <h1>Logout page</h1>
 ![logout](screenshots/logout.png)
 
+<img src="screenshots/loginpage.png" width="1000">
+
 
 
 
